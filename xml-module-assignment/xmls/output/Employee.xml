@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employee>
+	<Emp_id>101</Emp_id>
+	<name>Nitish Gupta</name>
+	<Dept>IT</Dept>
+</Employee>

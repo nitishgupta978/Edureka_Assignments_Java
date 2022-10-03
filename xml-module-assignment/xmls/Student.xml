@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+<id>101</id>
+<name>Nitish Gupta</name>
+<std>10</std>
+<gender>Male</gender>
+<marks>89</marks>
+<address>Mohali</address>
+</student>
